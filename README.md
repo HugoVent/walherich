@@ -1,2 +1,6 @@
 # walherich
-Everything that can be automated will be
+Everything that can be automated will be.
+
+## Quotation
+
+TODO
